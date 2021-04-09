@@ -155,6 +155,10 @@ form svg {
 	.circle-right {
 		right: -50px;
 	}
+
+	input {
+		font-size: 1rem;
+	}
 }
 
 
